@@ -1,4 +1,4 @@
-# Cora Moringa School FAQ Chatbot Group 1
+# Cora Moringa School FAQ Chatbot 
 
 This project is based on a text-based chatbot using the FAQs from Moringa School. We specifically chose Moringa School because we noticed a significant lack of effective communication from the administration to the student body, especially during the onboarding process. This caused a lot of confusion and frustration for students and anyone else who had questions or concerns. By creating this chatbot, we hope to provide a more efficient and accessible means for individuals to get the information they need without experiencing the same communication issues that we did.
 The chatbot was developed using natural language processing (NLP) techniques so it can efficiently handle and respond to customer queries related to Moringa school and the programs it offers to Kenyans with the goal of improving customer satisfaction.
